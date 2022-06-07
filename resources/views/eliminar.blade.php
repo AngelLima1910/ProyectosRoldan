@@ -1,11 +1,11 @@
 @extends('layout/plantilla')
 
-@section("tituloPagina", "Crear un nuevo registro")
+@section("tituloPagina", "Eliminar un registro")
 
 @section('contenido')
 
 <div class="card">
-    <h5 class="card-header">Eliminar un registro!!</h5>
+    <h5 class="card-header">Eliminar un registro!</h5>
     <div class="card-body">
         <p class="card-text">
         <div class="alert alert-danger" role="alert">
